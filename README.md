@@ -4,7 +4,9 @@
 
 ---
 
-I studied **Business Administration**, not Computer Science. From 2019 to early 2025, my world was **content marketing**, Excel/Google Sheets automation, and building data pipelines from raw orders to dashboards — all self-taught.
+I have a Bachelor's in **Business Administration** — not Computer Science, not Data, nothing about tech. All I knew was Excel: `=SUM()`, `COUNTIFS()`, `VLOOKUP()`, `IMPORTRANGE()` — no AppScript, no VBA.
+
+From 2019 to early 2025, my world was **content marketing**, Google Sheets automation, and building data pipelines from raw orders to dashboards. One of those dashboards was the early stage of [KungFu Stocks Pro](https://kfsp.vn/home/#trang-chu) — an Excel file packed with formulas, charts, sheets, and notes. It eventually became a real product, far beyond anything I could have imagined back then. All self-taught.
 
 In late 2024, I discovered **n8n** and started automating workflows properly. Then AI changed everything.
 
