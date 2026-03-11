@@ -20,7 +20,7 @@ That realization led me to create tools and skill sets — not because I'm an ex
 
 🛡️ **Product "insurance":** I build skill sets and automation that let me focus on business while being confident the product side is covered.
 
-📱 **Current project:** [KungFu Stocks Pro](https://kungfustockspro.com) — Vietnamese stock analysis app.
+📱 **Current project:** [KungFu Stocks Pro](https://kfsp.vn/home/#trang-chu) — Vietnamese stock analysis app.
 
 🎓 **Learning:** Google Project Management Certificate (in progress).
 
