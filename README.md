@@ -6,7 +6,7 @@
 
 I have a Bachelor's in **Business Administration** — not Computer Science, not Data, nothing about tech. All I knew was Excel: `=SUM()`, `COUNTIFS()`, `VLOOKUP()`, `IMPORTRANGE()` — no AppScript, no VBA.
 
-From 2019 to early 2025, my world was **content marketing**, Google Sheets automation, and building data pipelines from raw orders to dashboards. One of those dashboards was the early stage of [KungFu Stocks Pro](https://kfsp.vn/home/#trang-chu) — an Excel file packed with formulas, charts, sheets, and notes. It eventually became a real product, far beyond anything I could have imagined back then. All self-taught.
+From 2019 to early 2025, my world was **content marketing**, Google Sheets automation, and building data pipelines from raw orders to dashboards. One of those dashboards was the early stage of [KFSP](https://kfsp.vn/home/#trang-chu) — an Excel file packed with formulas, charts, sheets, and notes. It eventually became a real product, far beyond anything I could have imagined back then. All self-taught.
 
 In late 2024, I discovered **n8n** and started automating workflows properly. Then AI changed everything.
 
@@ -22,7 +22,7 @@ That realization led me to create tools and skill sets — not because I'm an ex
 
 🛡️ **Product "insurance":** I build skill sets and automation that let me focus on business while being confident the product side is covered.
 
-📱 **Current project:** [KungFu Stocks Pro](https://kfsp.vn/home/#trang-chu) — Vietnamese stock analysis app.
+📱 **Current project:** [KFSP](https://kfsp.vn/home/#trang-chu) — Vietnamese stock analysis app.
 
 🎓 **Learning:** Google Project Management Certificate (in progress).
 
